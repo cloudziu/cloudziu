@@ -1,6 +1,4 @@
 <hr>
-<img src="https://i.imgur.com/StYm1UJ.png" alt="README header image">
-
 <div align="center">
 <h1 align='center'><i> Ｈａｖｅ  ａ  Ｇｏｏｄ  Ｄａｙ！💿</i></h1>
 <div>
